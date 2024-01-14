@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "987396187658",
+    "project_id": "book-town-21de9",
+    "storage_bucket": "book-town-21de9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987396187658:android:cecbb2eb69201856d1e1f3",
+        "android_client_info": {
+          "package_name": "com.example.book_town"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987396187658-t70fi3bfb82lnhdadt1oqoa10h7japbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp1YA2xCnee3EZzF3Qfp_XBAH00-jqa9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987396187658-8kv4jont9l6sj62of2ol3d1jdq0pal61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987396187658:android:3c4f869457c4dff9d1e1f3",
+        "android_client_info": {
+          "package_name": "com.example.book_town_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987396187658-t70fi3bfb82lnhdadt1oqoa10h7japbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp1YA2xCnee3EZzF3Qfp_XBAH00-jqa9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987396187658-8kv4jont9l6sj62of2ol3d1jdq0pal61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -25,18 +25,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.red,
       ),
       home: SignUp(),
-      // home: CurveNeviBar(
-      //   page_index: 0,
-      // ),
-      //  BooksAll(),
-
-      // SignIn(),
-
-      // CurveNeviBar(
-      //   page_index: 2,
-      // )
-
-      //SignUp()
+    
     );
   }
 }

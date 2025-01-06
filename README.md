@@ -42,7 +42,7 @@ Md. Khalid Hossain
 🔗 GitHub: github.com/MKhalidHossain  
 🔗 LinkedIn: linkedin.com/in/md-khalidhossain  
   
-**License**
+**License**  
 This project is licensed under the MIT License. See the LICENSE file for details.  
 This README provides a clear overview of your project, including features, setup instructions, and contact information.  
 
